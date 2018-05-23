@@ -112,7 +112,8 @@ public class EndPoints {
      */
     public static final String MESSAGE_DOCUMENT_DOWNLOAD_URL = "document/messageDocument/";
     public static final String MESSAGE_BACKUP_DOWNLOAD_URL = "backup/messageBackup/";
-    public static final String MESSAGE_IMAGE_DOWNLOAD_URL = "image/messageImage/";
+//    public static final String MESSAGE_IMAGE_DOWNLOAD_URL = "image/messageImage/";
+    public static final String MESSAGE_IMAGE_DOWNLOAD_URL = "uploads/imagesFiles/after/";
     public static final String MESSAGE_VIDEO_DOWNLOAD_THUMBNAIL_URL = "video/messageVideoThumbnail/";
     public static final String MESSAGE_VIDEO_DOWNLOAD_URL = "video/messageVideo/";
     public static final String MESSAGE_AUDIO_DOWNLOAD_URL = "audio/messageAudio/";

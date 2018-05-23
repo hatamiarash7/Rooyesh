@@ -110,7 +110,7 @@ import java.net.URL;
 
 public class SplashScreenActivity extends AppCompatActivity {
 
-    int SPLASH_TIME_OUT = 1500;
+    int SPLASH_TIME_OUT = 1000;
     private APIService mApiService;
     @BindView(R.id.splash_app_name)
     AppCompatTextView splashAppName;

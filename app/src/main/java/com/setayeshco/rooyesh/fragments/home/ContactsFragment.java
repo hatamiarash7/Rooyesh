@@ -311,12 +311,9 @@ public class ContactsFragment extends Fragment implements LoadingData {
         }
 
         if (requestCode == REQUEST_PERMISSIONS) {
-
             if ((grantResults.length > 0) && (grantResults[0] +
                     grantResults[1]) == PackageManager.PERMISSION_GRANTED) {
-
             } else {
-
                 Snackbar.make(getActivity().findViewById(android.R.id.content), "ط´ظ…ط§ ط§ط¬ط§ط²ظ‡ ط¯ط³طھط±ط³غŒ ظ†ط¯ط§ط¯ظ‡ ط§غŒط¯",
                         Snackbar.LENGTH_INDEFINITE).setAction("ENABLE",
                         new View.OnClickListener() {
@@ -333,7 +330,6 @@ public class ContactsFragment extends Fragment implements LoadingData {
                             }
                         }).show();
             }
-
         }
     }
 
@@ -374,8 +370,6 @@ public class ContactsFragment extends Fragment implements LoadingData {
                             }
                         }).show();
             }
-
         }
     }*/
-
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">رویش</string>
+    <string name="app_name">rooyesh</string>
     <string name="scrollingFABBehavior" translatable="false">com.setayeshco.rooyesh.ui.ScrollingFABBehavior</string><!--you have to change package name here-->
 
     <string name="FACEBOOK_APP_ID" translatable="false">put your facebook app ID</string>
@@ -329,16 +329,16 @@
 
     <!--Directories strings-->
 
-    <string name="profile_photos">عکس های حساب کاربری</string>
-    <string name="images_directory">عکس ها</string>
-    <string name="data_cache_directory">پشتیبان ها</string>
-    <string name="videos_directory">ویدیو ها</string>
-    <string name="audios_directory">صوت</string>
-    <string name="documents_directory">مدارک</string>
-    <string name="images_other_directory"> تصاویر پوشه های دیگر</string>
-    <string name="directory_wallpaper">تصویر پس زمینه</string>
-    <string name="directory_sent">ارسال شد</string>
-    <string name="video_thumbnail">تصویر ویدیویی کوچک شده</string>
+    <string name="profile_photos">profile</string>
+    <string name="images_directory">image</string>
+    <string name="data_cache_directory">backup</string>
+    <string name="videos_directory">video</string>
+    <string name="audios_directory">audio</string>
+    <string name="documents_directory">docs</string>
+    <string name="images_other_directory">other</string>
+    <string name="directory_wallpaper">wallpaper</string>
+    <string name="directory_sent">sent</string>
+    <string name="video_thumbnail">thumbnail</string>
     <string name="image_saved">عکس ذخیره شد</string>
     <string name="save_to_gallery">ذخیره در گالری</string>
     <string name="share_or_save">اشتراک یا ذخیره</string>

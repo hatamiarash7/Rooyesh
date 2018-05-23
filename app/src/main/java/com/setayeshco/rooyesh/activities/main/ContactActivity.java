@@ -325,7 +325,6 @@ public class ContactActivity extends AppCompatActivity implements NetworkListene
 				window.setStatusBarColor(AppHelper.getColor(this, R.color.colorActionMode));
 			}
 		}
-		
 	}
 	
 	
@@ -381,7 +380,6 @@ public class ContactActivity extends AppCompatActivity implements NetworkListene
 			AppHelper.Snackbar(this, mView, getString(R.string.connection_is_available), AppConstants.MESSAGE_COLOR_SUCCESS, AppConstants.TEXT_COLOR);
 		} else {
 			AppHelper.Snackbar(this, mView, getString(R.string.waiting_for_network), AppConstants.MESSAGE_COLOR_WARNING, AppConstants.TEXT_COLOR);
-			
 		}
 	}
 	
